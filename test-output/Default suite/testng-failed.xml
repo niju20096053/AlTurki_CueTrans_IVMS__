@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.cuetrans.testcases.VehicleMaster_Create">
+        <methods>
+          <include name="setSheetName"/>
+          <include name="setTestData"/>
+          <include name="afterTest"/>
+          <include name="beforeSuite"/>
+          <include name="getGridConfig"/>
+          <include name="afterMethod"/>
+          <include name="getAllObjectLocators"/>
+          <include name="setData"/>
+          <include name="afterSuite"/>
+          <include name="getMobileConfig"/>
+          <include name="beforeMethod"/>
+          <include name="beforeTest"/>
+          <include name="getMailConfig"/>
+          <include name="getAllObjects"/>
+          <include name="loginPass" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.cuetrans.testcases.VehicleMaster_Create -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

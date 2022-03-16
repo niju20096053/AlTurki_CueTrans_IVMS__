@@ -1,0 +1,8 @@
+2018-10-08 14:38:42 INFO  devpinoyLogger:19 - The data : 'testuser' has been entered by locator: 'Id' successfully
+2018-10-08 14:38:43 INFO  devpinoyLogger:19 - The data : 'admin123' has been entered by locator: 'Id' successfully
+2018-10-08 14:38:43 INFO  devpinoyLogger:19 - The element has been clicked by locator: 'Id' successfully
+2018-10-08 14:39:11 INFO  devpinoyLogger:19 - The element has been clicked by locator: 'Xpath' successfully
+2018-10-08 14:39:21 INFO  devpinoyLogger:19 - The element has been clicked by locator: 'Id' successfully
+2018-10-08 14:39:33 ERROR devpinoyLogger:35 - Unable to enter data : 'Test Veh 001' in the field by locator: 'null', value :'textfield-1936-inputEl'
+2018-10-08 14:39:34 INFO  PDFReporter:153 - Started PDF report creation
+2018-10-08 14:39:36 WARN  COSDocument:639 - Warning: You did not close a PDF Document
